@@ -1,0 +1,12 @@
+button {
+    background-image: linear-gradient(90deg, red, blue);
+    border-radius: 10px;
+    width: 20%;
+    transition: 0.7s;
+    background-size: 200%;
+    border: none;
+}
+
+button:hover {
+    background-position: 100%;
+}

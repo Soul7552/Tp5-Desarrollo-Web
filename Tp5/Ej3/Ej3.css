@@ -1,0 +1,14 @@
+div {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(foto1.jpg);
+    width: 300px;
+    height: 400px;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+
+div:hover {
+    width: 350px;
+    height: 450px;
+}
